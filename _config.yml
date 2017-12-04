@@ -1,8 +1,8 @@
 # Site Settings
-title: ABCCariera | Titlu frumos
+title: Abecedarul carierei | Titlu frumos
 email: youremail@xyz.com
 description: un blog frumos
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
