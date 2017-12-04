@@ -2,7 +2,7 @@
 title: Abecedarul carierei | Titlu frumos
 email: youremail@xyz.com
 description: un blog frumos
-baseurl: "/abc-carierei" # the subpath of your site, e.g. /blog
+baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
