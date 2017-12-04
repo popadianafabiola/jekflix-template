@@ -1,14 +1,14 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: ABCCariera | Titlu frumos
 email: youremail@xyz.com
-description: Some text about your blog.
+description: un blog frumos
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: ABCCariera
+user_description: Ceva despre mine
 disqus_username: disqus_username
 
 # Social Media
