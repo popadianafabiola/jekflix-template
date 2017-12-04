@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Fazendo um formulário de Contato no Jekyll com Vue.js"
-date: 2017-08-07 23:04:08
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1502208952/contact-post_gnaojy.png'
+title: Orez cu lapti
+date: 2017-08-07 23:04:08 +0000
+image: http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1502208952/contact-post_gnaojy.png
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'tutorial'
 tags:
 - vuejs
 - jekyll
 - blog
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
+categories: tutorial
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
