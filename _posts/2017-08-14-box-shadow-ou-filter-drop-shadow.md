@@ -7,9 +7,8 @@ description: Acesta e articolu meu
 tags:
 - css
 - frontend
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+twitter_text: Short twitteer text
+introduction: Mesaj de la mine
 categories: css
 ---
 
