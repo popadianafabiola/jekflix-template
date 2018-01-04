@@ -3,7 +3,7 @@ layout: main
 ---
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <div id="grid" class="row flex-grid">
+    <div id="grid" class="row flex-grid" style="padding: 1em">
     {% for post in site.posts %}
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">

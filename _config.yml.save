@@ -2,19 +2,19 @@
 title: Abecedarul carierei | OSUT
 email: youremail@xyz.com
 description: Blogul ABC Cariera
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://abc.osut.ro" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: ABCdarul Carierei
+username: ABCCariera
 user_description: Abecedarul Carierei
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
 github_username: github_username
-facebook_username: abecedarul.carierei
+facebook_username: 
 twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
