@@ -2,7 +2,7 @@
 title: Abecedarul carierei | OSUT
 email: youremail@xyz.com
 description: Blogul ABC Cariera
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://abc.osut.ro" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
